@@ -12,7 +12,7 @@ public class EjemploAnotacion {
     public static void main(String[] args) {
         Producto p = new Producto();
         p.setFecha(LocalDate.now());
-        p.setNombre("mesa de centro");
+        p.setNombre("mEsA dE CeNtRo");
         p.setPrecio(100000l);
 
 
